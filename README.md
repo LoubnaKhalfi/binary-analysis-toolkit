@@ -123,7 +123,7 @@ python analyze.py suspicious.elf --entropy
 | 0 – 4.0 | Low entropy — plain text, sparse data |
 | 4.0 – 6.0 | Normal executable code |
 | 6.0 – 7.2 | Possibly obfuscated |
-| 7.2 – 8.0 | ⚠️ Packed, encrypted, or compressed |
+| 7.2 – 8.0 | Packed, encrypted, or compressed |
 
 ---
 
