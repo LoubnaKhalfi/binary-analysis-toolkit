@@ -1,4 +1,4 @@
-# 🔬 Binary Analysis Toolkit
+# Binary Analysis Toolkit
 
 A static analysis toolkit for ELF and PE binaries. Parses headers, disassembles code, extracts strings, and detects packed/obfuscated sections via entropy analysis — the same fundamentals behind tools like pestudio, Detect-It-Easy, and Cutter.
 
@@ -132,4 +132,3 @@ python analyze.py suspicious.elf --entropy
 - ✅ ELF (Linux/Unix binaries)
 - ✅ PE / PE32+ (Windows executables and DLLs)
 
----
